@@ -12,13 +12,9 @@ This is a recruitment web portal that uses Artificial Intelligence to shortlist 
 - Run "{domain_name}/_sys/_tables.php" in web browser to create all the database tables.
   (Once all tables are created, you should see success messages in your browser.
 - Now open {domain_name} to get started.
-
 That's it!!!
-
 <b>UIs</b>
 
 ![alt text](https://github.com/mrkobby/ai-recruitment-system/blob/master/ui1.png)
-
 ![alt text](https://github.com/mrkobby/ai-recruitment-system/blob/master/ui3.png)
-
 ![alt text](https://github.com/mrkobby/ai-recruitment-system/blob/master/ui4.png)
